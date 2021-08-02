@@ -1,0 +1,35 @@
+
+.navbar-brand{
+	font-weight: 800;
+	font-size: xx-large;
+}
+.navbar-default .navbar-nav>li>a{
+	background-color: white;
+	border: 1px solid black;
+	font-size: large;
+	font-weight: 600;
+	color: black;
+}
+#content{
+	background-color: darkgray;
+	color: black;
+}
+button.navbar-toggle.collapsed{
+	border: 1px solid black;
+}
+button span{
+	border: 1px solid black;
+}
+button span: focus{
+	border: 1px solid transparent;
+}
+.navbar-default{
+	background-color: darkgray;
+}
+.navbar-default .navbar-brand{
+	color: black;
+}
+#menu{
+	margin-top: -15px;
+	margin-bottom: 30px;
+}
